@@ -1,32 +1,33 @@
 # Project ideas
 
 - Ez-pz
-- Random color generator
-- Password generator
-- Digital clock
-- Random quotes
-- Customer review component
-- User consent for cookies
-- Total calorie calculator(from carb-prot-fat)
-- Pricing(3-card way) cards design
-- Blog post layout
-- Loading animated bar
-- Css expanding cards
-- Project-article display card design
-- Theme toggler(icon change animation)
-- Infinite scroll
-- Random meme generator
-- Random dad jokes
-- Sign-up page design
-- Typewriter effect
-- Coding challenge card design(hackerrank style)
-- 404 page design
-- Guess random number game
-- Random job picker(from todo jobs)
-- Pagination design
+
+  - Random color generator
+  - Password generator
+  - Digital clock
+  - Random quotes
+  - Customer review component
+  - User consent for cookies
+  - Total calorie calculator(from carb-prot-fat)
+  - Pricing(3-card way) cards design
+  - Blog post layout
+  - Loading animated bar
+  - Css expanding cards
+  - Project-article display card design
+  - Theme toggler(icon change animation)
+  - Infinite scroll
+  - Random meme generator
+  - Random dad jokes
+  - Typewriter effect
+  - Coding challenge card design(hackerrank style)
+  - 404 page design
+  - Guess random number game
+  - Random job picker(from todo jobs)
+  - Pagination design
 
 - Not so ez
 
+  - Sign-up page design
   - Hamburger button
   - Landing page example
   - Search filter component design
@@ -34,6 +35,7 @@
   - Hover tooltip card design
 
 - Intermediate projects
+
   - Random meal generator
   - Contact page design
   - Voting app
