@@ -6,10 +6,8 @@
   - Password generator
   - Digital clock
   - Random quotes
-  - Customer review component
   - User consent for cookies
   - Total calorie calculator(from carb-prot-fat)
-  - Pricing(3-card way) cards design
   - Blog post layout
   - Loading animated bar
   - Css expanding cards
@@ -27,6 +25,8 @@
 
 - Not so ez
 
+  - Customer review component
+  - Pricing(3-card way) cards design
   - Sign-up page design
   - Hamburger button
   - Landing page example
