@@ -20,5 +20,9 @@
 -Random meme generator
 -Random dad jokes
 -Sign-up page design
-
--
+-Typewriter effect
+-Coding challenge card design(hackerrank style)
+-404 page design
+-Guess random number game
+-Random job picker(from todo jobs)
+-Pagination design
