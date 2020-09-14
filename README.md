@@ -29,13 +29,14 @@
 - Image slider
 - Hover tooltip card design
 
-- Random meal generator
-- Contact page design
-- Voting app
-- Typing speed test app
-- Reviews board(Amazon-like 5-4-3-2-1 stars and ratios)
-- Currency exchange rate calculator(excangerate-api)
-- Weather app
-- FAQ component design
-- Quiz app
-- Invoice design
+- Intermediate projects
+  - Random meal generator
+  - Contact page design
+  - Voting app
+  - Typing speed test app
+  - Reviews board(Amazon-like 5-4-3-2-1 stars and ratios)
+  - Currency exchange rate calculator(excangerate-api)
+  - Weather app
+  - FAQ component design
+  - Quiz app
+  - Invoice design
