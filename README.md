@@ -12,11 +12,13 @@
 -Blog post layout
 -Loading animated bar
 -Css expanding cards
+-Project-article display card design
+-Theme toggler(icon change animation)
+-Infinite scroll
+-Search filter component design
+-Landing page example
+-Random meme generator
+-Random dad jokes
+-Sign-up page design
 
--
--
--
--
--
--
 -
