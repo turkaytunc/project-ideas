@@ -5,37 +5,37 @@
 - Digital clock
 - Random quotes
 - Customer review component
-  -consent user for cookies
-  -Total calorie calculator(from carb-prot-fat)
-  -Hamburger button
-  -Pricing(3-card way) cards design
-  -Blog post layout
-  -Loading animated bar
-  -Css expanding cards
-  -Project-article display card design
-  -Theme toggler(icon change animation)
-  -Infinite scroll
-  -Search filter component design
-  -Landing page example
-  -Random meme generator
-  -Random dad jokes
-  -Sign-up page design
-  -Typewriter effect
-  -Coding challenge card design(hackerrank style)
-  -404 page design
-  -Guess random number game
-  -Random job picker(from todo jobs)
-  -Pagination design
-  -Image slider
-  -Hover tooltip card design
+- consent user for cookies
+- Total calorie calculator(from carb-prot-fat)
+- Hamburger button
+- Pricing(3-card way) cards design
+- Blog post layout
+- Loading animated bar
+- Css expanding cards
+- Project-article display card design
+- Theme toggler(icon change animation)
+- Infinite scroll
+- Search filter component design
+- Landing page example
+- Random meme generator
+- Random dad jokes
+- Sign-up page design
+- Typewriter effect
+- Coding challenge card design(hackerrank style)
+- 404 page design
+- Guess random number game
+- Random job picker(from todo jobs)
+- Pagination design
+- Image slider
+- Hover tooltip card design
 
--Random meal generator
--Contact page design
--Voting app
--Typing speed test app
--Reviews board(Amazon-like 5-4-3-2-1 stars and ratios)
--Currency exchange rate calculator(excangerate-api)
--Weather app
--FAQ component design
--Quiz app
--Invoice design
+- Random meal generator
+- Contact page design
+- Voting app
+- Typing speed test app
+- Reviews board(Amazon-like 5-4-3-2-1 stars and ratios)
+- Currency exchange rate calculator(excangerate-api)
+- Weather app
+- FAQ component design
+- Quiz app
+- Invoice design
