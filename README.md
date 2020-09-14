@@ -8,7 +8,7 @@
 -consent user for cookies
 -Total calorie calculator(from carb-prot-fat)
 -Hamburger button
--Pricing(3-card way)
+-Pricing(3-card way) cards design
 -Blog post layout
 -Loading animated bar
 -Css expanding cards
@@ -37,3 +37,5 @@
 -Currency exchange rate calculator(excangerate-api)
 -Weather app
 -FAQ component design
+-Quiz app
+-Invoice design
