@@ -2,7 +2,7 @@
 
 - Ez-pz
 
-  - Random color generator
+  - [x] Random color generator
   - Password generator
   - Digital clock
   - Random quotes
