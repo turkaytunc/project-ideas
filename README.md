@@ -2,7 +2,8 @@
 
 - Ez-pz
 
-  - [x] Random color generator
+  - :white_check_mark: Random color generator
+
   - Password generator
   - Digital clock
   - Random quotes
