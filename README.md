@@ -5,8 +5,8 @@
   - :white_check_mark: Random color generator
   - :white_check_mark: Password generator
   - :white_check_mark: Digital clock
+  - :white_check_mark: Random quotes
 
-  - Random quotes
   - User consent for cookies
   - Total calorie calculator(from carb-prot-fat)
   - Blog post layout
