@@ -37,6 +37,8 @@
 
 - Intermediate projects
 
+  - :white_check_mark: Markdown previewer
+
   - Random meal generator
   - Contact page design
   - Voting app
