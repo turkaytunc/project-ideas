@@ -29,7 +29,7 @@
   - Customer review component
   - Pricing(3-card way) cards design
   - Sign-up page design
-  - Hamburger button
+  - :white_check_mark: Hamburger button
   - Landing page example
   - Search filter component design
   - Image slider
@@ -38,8 +38,7 @@
 - Intermediate projects
 
   - :white_check_mark: Markdown previewer
-
-  - Random meal generator
+  - :white_check_mark: Random meal generator
   - Contact page design
   - Voting app
   - Typing speed test app
